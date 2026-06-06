@@ -1,0 +1,57 @@
+TPU TYRE DESIGN
+
+
+TREAD DESIGN:
+Chevron/ V-lugs —> best for ramps + uneven terrains
+Unidirectional treads 
+Abrasion-resistant so that the tyre's material does not scrape off 
+
+
+Recommended Dimensions assuming the wheel diameter is 30cm
+Angle: 30-45 degrees
+Lug height: 8–12 mm
+Lug thickness: ≥6 mm
+Lug spacing: 1.2–1.5 × lug width
+Rounded edges (fillet radius ≥2 mm)
+
+
+
+
+
+TPU shore should be around 85-90A (balance between soft and hard). Good for a 50kg UGV
+
+
+
+
+HUB DESIGN:
+Rigid hub with proper locking method. 
+Material - Aluminium or nylon CF for robust attachment of the motor, so that it can handle the torque
+
+
+
+
+SPOKES DESIGN:
+
+
+          RADIAL SPOKES                                       GYROID SPOKES
+
+These infill patterns will help in shock absorption
+Radial pattern is considered best for heavy UGVs
+Void ratio should be 35-50%
+
+
+CAD updates on this task: 
+
+MAJOR PROBLEM FOR NOW:
+Material of the HUB?? —> Based on Robustness, feasibility, and how we will connect the motor to the hub…….Coupler or some other method? 
+Coupler lgne se problem so alternative to coupler — so wheel me choti si disc wheel me scews . . . join kr denge 
+Wheel me iteration, cad modify , 
+
+Solution of The problem 
+For robustness 
+Final iteration for tyre 
+we had a stress-strain analysis 
+
+
+
+
